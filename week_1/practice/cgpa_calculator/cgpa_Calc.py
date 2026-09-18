@@ -26,11 +26,12 @@ def convert_grade(letter_grade):
                     print("Invalid letter grade.")
                     
 semester = int(input("Enter current semester number: "))
-iteration = 0
+iteration = 1
 totalCredits = 0
 totalGradePoints = 0
 while(iteration<semester):
-    courseQuantities=int(input("Enter number of courses: "))
+    print("Semester number: ", iteration)
+    courseQuantities=int(input("Enter number of courses in semester: "))
     for course in range(courseQuantities):
         credit=int(input("Enter Credit: "))
         totalCredits += credit
@@ -40,4 +41,7 @@ while(iteration<semester):
         totalGradePoints+=gpa
 
     iteration+=1;
+
+cgpa = totalGradePoints/totalCredits
+print("Your CGPA is: ", cgpa )
 
