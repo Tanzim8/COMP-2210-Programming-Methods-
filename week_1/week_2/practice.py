@@ -24,3 +24,10 @@ numCheck(16)
 num2 = int(input("Enter a number: "))
 
 numCheck(num2)
+
+#returning some values
+def addNum(num1, num2):
+    num3 = num1+num2
+    print("Addition of",num1,"and",num2,"is",num3)
+    return num3
+addNum(24,25)
