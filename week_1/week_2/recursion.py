@@ -13,3 +13,14 @@ def nSum(num2):
     return factorialNum(num2-1)+num2
 
 print(nSum(5))
+
+def sumTwoVar(num1, num2):
+    if(num1 > num2):
+        return 0
+    if(num1 != num2):
+        return num1 + sumTwoVar(num1+1, num2)
+    else:
+        return num2
+
+print(sumTwoVar(0,20))
+print(sumTwoVar(25, 35))
