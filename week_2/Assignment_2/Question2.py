@@ -32,8 +32,8 @@ for item in words2:
     else:
         l2.append(item)
 
-print(l1)
-print(l2)
+# print(l1)
+# print(l2)
 
 finalList = []
 # finalList.append(str(finalNum)+l1+l2)
