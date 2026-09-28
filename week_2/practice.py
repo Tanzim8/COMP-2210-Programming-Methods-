@@ -75,3 +75,6 @@ temp2 = 10
 
 #python works for both floats and intigers
 print(temp1+5, temp2-2.5)
+
+import math
+print(math.sqrt(temp1))
