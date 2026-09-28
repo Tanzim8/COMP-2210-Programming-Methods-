@@ -98,3 +98,9 @@ myName = "Tanzim Rahman"
 print(len(myName))
 print(myName[10])
 print(myName[7:])
+
+tempName = ""
+
+for i in range(len(myName)):
+    tempName = tempName + myName[-i-1]
+print(tempName)
