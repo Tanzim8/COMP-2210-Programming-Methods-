@@ -90,6 +90,11 @@ match food:
     case "pizza":
         print("Pizza in lunch")
     case "burger":
-        print("Burger in luch")
+        print("Burger in lunch")
     case "":
         print("Nothing")
+
+myName = "Tanzim Rahman"
+print(len(myName))
+print(myName[10])
+print(myName[7:])
