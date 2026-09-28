@@ -83,3 +83,13 @@ myList = [1, 10, 19, 56, 78]
 
 for val in myList:
     print(val)
+
+food = input("Enter a food name: ")
+
+match food:
+    case "pizza":
+        print("Pizza in lunch")
+    case "burger":
+        print("Burger in luch")
+    case "":
+        print("Nothing")
