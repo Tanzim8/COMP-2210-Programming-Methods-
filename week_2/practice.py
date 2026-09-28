@@ -31,3 +31,27 @@ def addNum(num1, num2):
     print("Addition of",num1,"and",num2,"is",num3)
     return num3
 addNum(24,25)
+
+num1 = int(input("Enter a number: "))
+
+if num1 >=10 : 
+    print(num1, "is bigger than 10")
+    if num1 > 20: 
+        print(num1, "is also bigger than 20")
+
+if num1 >1 and num1<10:
+    print(num1,"is greater than 1 and less than 10")
+else:
+    print(num1,"is not greater than 1 and less than 10")
+
+
+def greetings(course="Advanced Coding", section="2031"):
+    return "Welcome to ", course, "section: ", section, ", you will have a good time!"
+
+print(greetings())
+
+print(greetings("Programming methods", "2"))
+
+courseName = "Capstone project"
+courseID = "81"
+print(greetings(courseName, courseID))
