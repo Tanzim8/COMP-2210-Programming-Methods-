@@ -78,3 +78,8 @@ print(temp1+5, temp2-2.5)
 
 import math
 print(math.sqrt(temp1))
+
+myList = [1, 10, 19, 56, 78]
+
+for val in myList:
+    print(val)
