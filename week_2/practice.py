@@ -55,3 +55,23 @@ print(greetings("Programming methods", "2"))
 courseName = "Capstone project"
 courseID = "81"
 print(greetings(courseName, courseID))
+
+def divNums (num1, num2):
+    if num2 == 0:
+        return
+    else:
+        return num1/num2;
+print(divNums(34,23))
+
+def area(r):
+    pi = 3.14
+    return pi*r*r
+
+print(area(4))
+# print(r)
+
+temp1 = 5
+temp2 = 10
+
+#python works for both floats and intigers
+print(temp1+5, temp2-2.5)
