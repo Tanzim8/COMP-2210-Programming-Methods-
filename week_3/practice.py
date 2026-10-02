@@ -21,9 +21,9 @@ def encode(letter, shift):
     return chr(final) # a str again!
 print(encode("b", 3))
 
-def encode(letter, shift):
+def decode(letter, shift):
     normalize = ord(letter) - ord("a")
-    snormalize = normalize + shift
+    snormalize = normalize - shift
     msnormalize = snormalize % 26
     final = msnormalize + ord("a")
     return chr(final)
@@ -31,3 +31,19 @@ def encode(letter, shift):
 def encode(letter, shift):
     shifted = (ord(letter) - ord("a") + shift) % 26
     return chr(shifted + ord("a"))
+
+myName = "ghanzafar"
+
+print("Encoding:")
+
+encodedName = ""
+
+for n1 in myName:
+    encodedName = encodedName + encode(n1,3)
+print(encodedName)
+
+decoedName = ""
+print("Decoding: ")
+for n1 in encodedName:
+    decodedName = decoedName + decode(n1,3)
+print(decoedName)
