@@ -18,3 +18,9 @@ print(str.replace("a", "A"))
 print(str.split("a"))
 print(str.join(digits))
 print(str.join(str2))
+
+marks = 97.563
+print(str,digits)
+print(f"[str] recieved scores of {marks}")
+print(f"[str] recieved scores of {marks:.1f}")
+print(f"{str:>19}| {marks:6.2f}")
