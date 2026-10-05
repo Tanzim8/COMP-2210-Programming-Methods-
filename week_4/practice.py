@@ -23,4 +23,38 @@ marks = 97.563
 print(str,digits)
 print(f"[str] recieved scores of {marks}")
 print(f"[str] recieved scores of {marks:.1f}")
-print(f"{str:>19}| {marks:6.2f}")
+print(f"{str2:>10}| {marks:6.2f}")
+
+print(myList)
+for i in myList: 
+    print(i)
+myList.append(11)
+print(myList)
+myList.insert(2,4)
+print(myList)
+
+myList.remove(4)
+print(myList)
+print(myList.pop(0))
+print(myList)
+
+del myList[0]
+print(myList)
+
+myList2 = [13, 15, 17]
+myList3 = myList + myList2
+print(myList3)
+
+myList4 = [13,16,18]
+if myList4 == myList2:
+    print("Both have same values.")
+else:
+    print("lists are not equal.")
+print(myList2 in myList4)
+print(myList3 is myList)
+
+myList4.sort()
+print(myList4)
+
+myList5 = sorted(myList4, reverse=True)
+print(myList5)
