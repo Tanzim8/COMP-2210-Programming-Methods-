@@ -58,3 +58,13 @@ print(myList4)
 
 myList5 = sorted(myList4, reverse=True)
 print(myList5)
+
+myCourses = [
+    ["COMP 2210","Programming Methods", "Ganzafar Latif"],
+    ["COMP 4910", "Capstone Project", "Ganzafar Latif"],
+    ["COMP 3540", "Advanced Web Programming", "Ganzafar Latif"],
+]
+print(myCourses)
+print(myCourses[0][:])
+print(myCourses[0][0])
+print(myCourses[:][0])
