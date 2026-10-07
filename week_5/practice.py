@@ -50,3 +50,17 @@ print(minMaxCalc)
 
 l,h = minMax(myList)
 print("Low: ", l, "High: ", h)
+
+myInfo = ["Tanzim", "Rahman", 97.5]
+
+lastName, firstName, grade = myInfo
+print(lastName, firstName, grade)
+
+courseID = ["COMP 2210", "COMP2920", "COMP3590", "COMP4123"]
+courseName = ["P. Methods", "Adv Prgmming", "Network Secutry", "UNix Tools"]
+
+for id, name in zip(courseID, courseName):
+    print(id,name)
+
+for i, id in enumerate(courseID):
+    print(i, id)
