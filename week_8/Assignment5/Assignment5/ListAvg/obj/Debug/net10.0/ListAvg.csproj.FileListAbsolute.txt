@@ -1,0 +1,15 @@
+/workspaces/COMP-2210-Programming-Methods-/week_8/Assignment5/Assignment5/ListAvg/bin/Debug/net10.0/ListAvg
+/workspaces/COMP-2210-Programming-Methods-/week_8/Assignment5/Assignment5/ListAvg/bin/Debug/net10.0/ListAvg.deps.json
+/workspaces/COMP-2210-Programming-Methods-/week_8/Assignment5/Assignment5/ListAvg/bin/Debug/net10.0/ListAvg.runtimeconfig.json
+/workspaces/COMP-2210-Programming-Methods-/week_8/Assignment5/Assignment5/ListAvg/bin/Debug/net10.0/ListAvg.dll
+/workspaces/COMP-2210-Programming-Methods-/week_8/Assignment5/Assignment5/ListAvg/bin/Debug/net10.0/ListAvg.pdb
+/workspaces/COMP-2210-Programming-Methods-/week_8/Assignment5/Assignment5/ListAvg/obj/Debug/net10.0/ListAvg.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/COMP-2210-Programming-Methods-/week_8/Assignment5/Assignment5/ListAvg/obj/Debug/net10.0/ListAvg.AssemblyInfoInputs.cache
+/workspaces/COMP-2210-Programming-Methods-/week_8/Assignment5/Assignment5/ListAvg/obj/Debug/net10.0/ListAvg.AssemblyInfo.cs
+/workspaces/COMP-2210-Programming-Methods-/week_8/Assignment5/Assignment5/ListAvg/obj/Debug/net10.0/ListAvg.csproj.CoreCompileInputs.cache
+/workspaces/COMP-2210-Programming-Methods-/week_8/Assignment5/Assignment5/ListAvg/obj/Debug/net10.0/ListAvg.sourcelink.json
+/workspaces/COMP-2210-Programming-Methods-/week_8/Assignment5/Assignment5/ListAvg/obj/Debug/net10.0/ListAvg.dll
+/workspaces/COMP-2210-Programming-Methods-/week_8/Assignment5/Assignment5/ListAvg/obj/Debug/net10.0/refint/ListAvg.dll
+/workspaces/COMP-2210-Programming-Methods-/week_8/Assignment5/Assignment5/ListAvg/obj/Debug/net10.0/ListAvg.pdb
+/workspaces/COMP-2210-Programming-Methods-/week_8/Assignment5/Assignment5/ListAvg/obj/Debug/net10.0/ListAvg.genruntimeconfig.cache
+/workspaces/COMP-2210-Programming-Methods-/week_8/Assignment5/Assignment5/ListAvg/obj/Debug/net10.0/ref/ListAvg.dll

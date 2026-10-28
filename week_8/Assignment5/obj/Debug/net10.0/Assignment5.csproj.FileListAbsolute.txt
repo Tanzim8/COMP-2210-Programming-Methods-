@@ -1,0 +1,5 @@
+/workspaces/COMP-2210-Programming-Methods-/week_8/Assignment5/obj/Debug/net10.0/Assignment5.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/COMP-2210-Programming-Methods-/week_8/Assignment5/obj/Debug/net10.0/Assignment5.AssemblyInfoInputs.cache
+/workspaces/COMP-2210-Programming-Methods-/week_8/Assignment5/obj/Debug/net10.0/Assignment5.AssemblyInfo.cs
+/workspaces/COMP-2210-Programming-Methods-/week_8/Assignment5/obj/Debug/net10.0/Assignment5.csproj.CoreCompileInputs.cache
+/workspaces/COMP-2210-Programming-Methods-/week_8/Assignment5/obj/Debug/net10.0/Assignment5.sourcelink.json
